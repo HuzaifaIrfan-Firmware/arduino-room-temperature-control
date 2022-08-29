@@ -1,3 +1,3 @@
-# room-temperature-control
+# Arduino Room Temperature Control
 
-IM Project for Abdul Munim Sheraz Abdullah
+IM Project
